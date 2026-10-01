@@ -1,0 +1,37 @@
+{
+  
+  "jogos": [
+    {
+      "id": "1",
+      "titulo": "Minecraft",
+      "genero": "Sandbox",
+      "plataforma": "PC",
+      "nota": 9,
+      "status": "Jogando"
+    },
+    {
+      "titulo": "Hollow Knight",
+      "genero": "Metroidvania",
+      "plataforma": "PC",
+      "nota": 10,
+      "status": "Finalizado",
+      "id": "9AMHDeTSBxI"
+    },
+    {
+      "id": "6R7PfmNzEm0",
+      "titulo": "Elden Ring",
+      "genero": "Soulslike",
+      "plataforma": "PlayStation 5",
+      "nota": 10,
+      "status": "Concluído"
+    },
+    {
+      "id": "Giix9WfP8d8",
+      "titulo": "The Legend of Zelda: Tears of the Kingdom",
+      "genero": "Aventura",
+      "plataforma": "Nintendo Switch",
+      "nota": 9,
+      "status": "Jogando"
+    }
+  ]
+}
